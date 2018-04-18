@@ -28882,187 +28882,187 @@
   ],
   "terms": [{
       "hed__End_Date__c": "2015-12-15",
-      "hed__Start_Date__c": "8/1/14",
+      "hed__Start_Date__c": "2014-08-01",
       "Name": "Fall 2014"
     },
     {
       "hed__End_Date__c": "2016-12-14",
-      "hed__Start_Date__c": "9/1/16",
+      "hed__Start_Date__c": "2016-09-01",
       "Name": "Fall 2016"
     },
     {
       "hed__End_Date__c": "2017-05-04",
-      "hed__Start_Date__c": "1/7/17",
+      "hed__Start_Date__c": "2017-01-07",
       "Name": "Spring 2017"
     },
     {
       "hed__End_Date__c": "2015-05-04",
-      "hed__Start_Date__c": "1/7/15",
+      "hed__Start_Date__c": "2015-01-07",
       "Name": "Spring 2015"
     },
     {
       "hed__End_Date__c": "2016-05-04",
-      "hed__Start_Date__c": "1/7/16",
+      "hed__Start_Date__c": "2016-01-07",
       "Name": "Spring 2016"
     },
     {
       "hed__End_Date__c": "2017-12-14",
-      "hed__Start_Date__c": "9/1/17",
+      "hed__Start_Date__c": "2017-09-01",
       "Name": "Fall 2017"
     },
     {
       "hed__End_Date__c": "2015-12-14",
-      "hed__Start_Date__c": "9/1/15",
+      "hed__Start_Date__c": "2015-09-01",
       "Name": "Fall 2015"
     },
     {
       "hed__End_Date__c": "2019-05-04",
-      "hed__Start_Date__c": "1/7/19",
+      "hed__Start_Date__c": "2019-01-07",
       "Name": "Spring 2019"
     },
     {
       "hed__End_Date__c": "2020-05-02",
-      "hed__Start_Date__c": "1/6/20",
+      "hed__Start_Date__c": "2020-01-06",
       "Name": "Spring 2020"
     },
     {
       "hed__End_Date__c": "2021-05-01",
-      "hed__Start_Date__c": "1/4/21",
+      "hed__Start_Date__c": "2021-01-04",
       "Name": "Spring 2021"
     },
     {
       "hed__End_Date__c": "2022-04-30",
-      "hed__Start_Date__c": "1/3/22",
+      "hed__Start_Date__c": "2022-01-03",
       "Name": "Spring 2022"
     },
     {
       "hed__End_Date__c": "2023-04-29",
-      "hed__Start_Date__c": "1/2/23",
+      "hed__Start_Date__c": "2023-01-02",
       "Name": "Spring 2023"
     },
     {
       "hed__End_Date__c": "2022-07-30",
-      "hed__Start_Date__c": "5/2/22",
+      "hed__Start_Date__c": "2022-05-02",
       "Name": "Summer 2022"
     },
     {
       "hed__End_Date__c": "2023-08-05",
-      "hed__Start_Date__c": "5/1/23",
+      "hed__Start_Date__c": "2023-05-01",
       "Name": "Summer 2023"
     },
     {
       "hed__End_Date__c": "2024-08-03",
-      "hed__Start_Date__c": "5/6/24",
+      "hed__Start_Date__c": "2024-05-06",
       "Name": "Summer 2024"
     },
     {
       "hed__End_Date__c": "2024-05-04",
-      "hed__Start_Date__c": "1/8/24",
+      "hed__Start_Date__c": "2024-01-08",
       "Name": "Spring 2024"
     },
     {
       "hed__End_Date__c": "2025-05-03",
-      "hed__Start_Date__c": "1/6/25",
+      "hed__Start_Date__c": "2025-01-06",
       "Name": "Spring 2025"
     },
     {
       "hed__End_Date__c": "2026-05-02",
-      "hed__Start_Date__c": "1/5/26",
+      "hed__Start_Date__c": "2026-01-05",
       "Name": "Spring 2026"
     },
     {
       "hed__End_Date__c": "2027-05-01",
-      "hed__Start_Date__c": "1/4/27",
+      "hed__Start_Date__c": "2027-01-04",
       "Name": "Spring 2027"
     },
     {
       "hed__End_Date__c": "2019-08-03",
-      "hed__Start_Date__c": "5/6/19",
+      "hed__Start_Date__c": "2019-05-06",
       "Name": "Summer 2019"
     },
     {
       "hed__End_Date__c": "2020-08-01",
-      "hed__Start_Date__c": "5/4/20",
+      "hed__Start_Date__c": "2020-05-04",
       "Name": "Summer 2020"
     },
     {
       "hed__End_Date__c": "2021-07-31",
-      "hed__Start_Date__c": "5/3/21",
+      "hed__Start_Date__c": "2021-05-03",
       "Name": "Summer 2021"
     },
     {
       "hed__End_Date__c": "2026-08-01",
-      "hed__Start_Date__c": "5/4/26",
+      "hed__Start_Date__c": "2026-05-04",
       "Name": "Summer 2026"
     },
     {
       "hed__End_Date__c": "2027-07-31",
-      "hed__Start_Date__c": "5/3/27",
+      "hed__Start_Date__c": "2027-05-03",
       "Name": "Summer 2027"
     },
     {
       "hed__End_Date__c": "2025-08-02",
-      "hed__Start_Date__c": "5/5/25",
+      "hed__Start_Date__c": "2025-05-05",
       "Name": "Summer 2025"
     },
     {
       "hed__End_Date__c": "2019-12-13",
-      "hed__Start_Date__c": "8/5/19",
+      "hed__Start_Date__c": "2019-08-05",
       "Name": "Fall 2019"
     },
     {
       "hed__End_Date__c": "2020-12-18",
-      "hed__Start_Date__c": "8/3/20",
+      "hed__Start_Date__c": "2020-08-03",
       "Name": "Fall 2020"
     },
     {
       "hed__End_Date__c": "2021-12-17",
-      "hed__Start_Date__c": "8/2/21",
+      "hed__Start_Date__c": "2021-08-02",
       "Name": "Fall 2021"
     },
     {
       "hed__End_Date__c": "2022-12-16",
-      "hed__Start_Date__c": "8/1/22",
+      "hed__Start_Date__c": "2022-08-01",
       "Name": "Fall 2022"
     },
     {
       "hed__End_Date__c": "2023-12-15",
-      "hed__Start_Date__c": "8/7/23",
+      "hed__Start_Date__c": "2023-08-07",
       "Name": "Fall 2023"
     },
     {
       "hed__End_Date__c": "2024-12-13",
-      "hed__Start_Date__c": "8/5/24",
+      "hed__Start_Date__c": "2024-08-05",
       "Name": "Fall 2024"
     },
     {
       "hed__End_Date__c": "2025-12-19",
-      "hed__Start_Date__c": "8/4/25",
+      "hed__Start_Date__c": "2025-08-04",
       "Name": "Fall 2025"
     },
     {
       "hed__End_Date__c": "2026-12-18",
-      "hed__Start_Date__c": "8/3/26",
+      "hed__Start_Date__c": "2026-08-03",
       "Name": "Fall 2026"
     },
     {
       "hed__End_Date__c": "2027-12-17",
-      "hed__Start_Date__c": "8/2/27",
+      "hed__Start_Date__c": "2027-08-02",
       "Name": "Fall 2027"
     },
     {
       "hed__End_Date__c": "2018-05-25",
-      "hed__Start_Date__c": "1/8/18",
+      "hed__Start_Date__c": "2018-01-08",
       "Name": "Spring 2018"
     },
     {
       "hed__End_Date__c": "2018-12-14",
-      "hed__Start_Date__c": "9/1/18",
+      "hed__Start_Date__c": "2018-09-01",
       "Name": "Fall 2018"
     },
     {
       "hed__End_Date__c": "2018-08-31",
-      "hed__Start_Date__c": "6/1/18",
+      "hed__Start_Date__c": "2018-06-01",
       "Name": "Summer 2018"
     }
   ],
