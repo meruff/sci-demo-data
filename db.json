@@ -31396,5 +31396,3155 @@
       "Active__c": true,
       "Insert_Null__c": false
     }
+  ],
+  "plans": [{
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I0000031eeCUAQ"
+    },
+    "Name": "MBA",
+    "Plan_Type__c": "Major",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I0000031eeCUAQ",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002eEiwUAE"
+    },
+    "Name": "Senior Executive Program",
+    "Plan_Type__c": "Certificate",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002eEiwUAE",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJCUA2"
+    },
+    "Name": "BS in Mathematics",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIVUA2",
+    "Id": "a0H1I000002fEJCUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIVUA2"
+      },
+      "Id": "a0H1I000002fEIVUA2",
+      "Name": "Mathematics (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJDUA2"
+    },
+    "Name": "BA in Mathematics",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIVUA2",
+    "Id": "a0H1I000002fEJDUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIVUA2"
+      },
+      "Id": "a0H1I000002fEIVUA2",
+      "Name": "Mathematics (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJEUA2"
+    },
+    "Name": "MA in Mathematics",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEIXUA2",
+    "Id": "a0H1I000002fEJEUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIXUA2"
+      },
+      "Id": "a0H1I000002fEIXUA2",
+      "Name": "Mathematics (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJFUA2"
+    },
+    "Name": "BS in Biology",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIYUA2",
+    "Id": "a0H1I000002fEJFUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIYUA2"
+      },
+      "Id": "a0H1I000002fEIYUA2",
+      "Name": "Biology (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJGUA2"
+    },
+    "Name": "MS in Biology",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEIZUA2",
+    "Id": "a0H1I000002fEJGUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIZUA2"
+      },
+      "Id": "a0H1I000002fEIZUA2",
+      "Name": "Biology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJHUA2"
+    },
+    "Name": "MS in Biotechnology",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEIZUA2",
+    "Id": "a0H1I000002fEJHUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIZUA2"
+      },
+      "Id": "a0H1I000002fEIZUA2",
+      "Name": "Biology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJIUA2"
+    },
+    "Name": "BS in Chemistry",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIaUAM",
+    "Id": "a0H1I000002fEJIUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIaUAM"
+      },
+      "Id": "a0H1I000002fEIaUAM",
+      "Name": "Chemistry (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJJUA2"
+    },
+    "Name": "BA in Computer Science",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIbUAM",
+    "Id": "a0H1I000002fEJJUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIbUAM"
+      },
+      "Id": "a0H1I000002fEIbUAM",
+      "Name": "Computer Science (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJKUA2"
+    },
+    "Name": "MS in Computer Science",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEIcUAM",
+    "Id": "a0H1I000002fEJKUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIcUAM"
+      },
+      "Id": "a0H1I000002fEIcUAM",
+      "Name": "Computer Science (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJLUA2"
+    },
+    "Name": "BA in Earth and Environmental Science",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIdUAM",
+    "Id": "a0H1I000002fEJLUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIdUAM"
+      },
+      "Id": "a0H1I000002fEIdUAM",
+      "Name": "Earth and Environmental Science (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJMUA2"
+    },
+    "Name": "BS in Physics",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIeUAM",
+    "Id": "a0H1I000002fEJMUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIeUAM"
+      },
+      "Id": "a0H1I000002fEIeUAM",
+      "Name": "Physics (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJNUA2"
+    },
+    "Name": "BA in Psychology",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIfUAM",
+    "Id": "a0H1I000002fEJNUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIfUAM"
+      },
+      "Id": "a0H1I000002fEIfUAM",
+      "Name": "Psychology (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJOUA2"
+    },
+    "Name": "Master in Marriage and Family Therapy",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MFT",
+    "Recruitment_Interest__c": "a0H1I000002fEIgUAM",
+    "Id": "a0H1I000002fEJOUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIgUAM"
+      },
+      "Id": "a0H1I000002fEIgUAM",
+      "Name": "MFT (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJPUA2"
+    },
+    "Name": "MA in Psychology: General",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEIhUAM",
+    "Id": "a0H1I000002fEJPUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIhUAM"
+      },
+      "Id": "a0H1I000002fEIhUAM",
+      "Name": "Psychology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJQUA2"
+    },
+    "Name": "MA in Psychology: Applied Behavior Analysis",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEIhUAM",
+    "Id": "a0H1I000002fEJQUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIhUAM"
+      },
+      "Id": "a0H1I000002fEIhUAM",
+      "Name": "Psychology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJRUA2"
+    },
+    "Name": "BS in Anthropology",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIiUAM",
+    "Id": "a0H1I000002fEJRUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIiUAM"
+      },
+      "Id": "a0H1I000002fEIiUAM",
+      "Name": "Anthropology (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJSUA2"
+    },
+    "Name": "BS in Criminology",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIjUAM",
+    "Id": "a0H1I000002fEJSUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIjUAM"
+      },
+      "Id": "a0H1I000002fEIjUAM",
+      "Name": "Criminology (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJTUA2"
+    },
+    "Name": "BA in Political Science",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIkUAM",
+    "Id": "a0H1I000002fEJTUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIkUAM"
+      },
+      "Id": "a0H1I000002fEIkUAM",
+      "Name": "Political Science (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJUUA2"
+    },
+    "Name": "BA in History",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIlUAM",
+    "Id": "a0H1I000002fEJUUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIlUAM"
+      },
+      "Id": "a0H1I000002fEIlUAM",
+      "Name": "History (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJVUA2"
+    },
+    "Name": "BA in Kinesiology",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEImUAM",
+    "Id": "a0H1I000002fEJVUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEImUAM"
+      },
+      "Id": "a0H1I000002fEImUAM",
+      "Name": "Kinesiology (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJWUA2"
+    },
+    "Name": "MA in Kinesiology: Exercise Science",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEInUAM",
+    "Id": "a0H1I000002fEJWUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEInUAM"
+      },
+      "Id": "a0H1I000002fEInUAM",
+      "Name": "Kinesiology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJXUA2"
+    },
+    "Name": "MA in Kinesiology: Sports Administration",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEInUAM",
+    "Id": "a0H1I000002fEJXUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEInUAM"
+      },
+      "Id": "a0H1I000002fEInUAM",
+      "Name": "Kinesiology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJYUA2"
+    },
+    "Name": "BS in Nursing",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIoUAM",
+    "Id": "a0H1I000002fEJYUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIoUAM"
+      },
+      "Id": "a0H1I000002fEIoUAM",
+      "Name": "Nursing (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJZUA2"
+    },
+    "Name": "MS in Nursing",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEIpUAM",
+    "Id": "a0H1I000002fEJZUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIpUAM"
+      },
+      "Id": "a0H1I000002fEIpUAM",
+      "Name": "Nursing (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJaUAM"
+    },
+    "Name": "BA in Liberal Studies",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIqUAM",
+    "Id": "a0H1I000002fEJaUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIqUAM"
+      },
+      "Id": "a0H1I000002fEIqUAM",
+      "Name": "Liberal Studies (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJbUAM"
+    },
+    "Name": "MA in Education: Reading and Language Arts",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEIrUAM",
+    "Id": "a0H1I000002fEJbUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIrUAM"
+      },
+      "Id": "a0H1I000002fEIrUAM",
+      "Name": "Education (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJcUAM"
+    },
+    "Name": "MA in Education: Multilingual Education",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEIrUAM",
+    "Id": "a0H1I000002fEJcUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIrUAM"
+      },
+      "Id": "a0H1I000002fEIrUAM",
+      "Name": "Education (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJdUAM"
+    },
+    "Name": "MS in School Psychology",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEIsUAM",
+    "Id": "a0H1I000002fEJdUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIsUAM"
+      },
+      "Id": "a0H1I000002fEIsUAM",
+      "Name": "School Psychology (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJeUAM"
+    },
+    "Name": "MS in School Counseling",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MS",
+    "Recruitment_Interest__c": "a0H1I000002fEItUAM",
+    "Id": "a0H1I000002fEJeUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEItUAM"
+      },
+      "Id": "a0H1I000002fEItUAM",
+      "Name": "School Counseling (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJfUAM"
+    },
+    "Name": "BA in Economics",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIvUAM",
+    "Id": "a0H1I000002fEJfUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIvUAM"
+      },
+      "Id": "a0H1I000002fEIvUAM",
+      "Name": "Economics (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJgUAM"
+    },
+    "Name": "BS in Accounting",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BS",
+    "Recruitment_Interest__c": "a0H1I000002fEIwUAM",
+    "Id": "a0H1I000002fEJgUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIwUAM"
+      },
+      "Id": "a0H1I000002fEIwUAM",
+      "Name": "Accounting (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJhUAM"
+    },
+    "Name": "BA in Business Management",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIxUAM",
+    "Id": "a0H1I000002fEJhUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIxUAM"
+      },
+      "Id": "a0H1I000002fEIxUAM",
+      "Name": "Business Management (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJiUAM"
+    },
+    "Name": "BA in Marketing",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEIyUAM",
+    "Id": "a0H1I000002fEJiUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIyUAM"
+      },
+      "Id": "a0H1I000002fEIyUAM",
+      "Name": "Marketing (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJjUAM"
+    },
+    "Name": "Master of Business Administration",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MBA",
+    "Recruitment_Interest__c": "a0H1I000002fEIzUAM",
+    "Id": "a0H1I000002fEJjUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIzUAM"
+      },
+      "Id": "a0H1I000002fEIzUAM",
+      "Name": "MBA (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJkUAM"
+    },
+    "Name": "BA in English: Literature",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ1UAM",
+    "Id": "a0H1I000002fEJkUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ1UAM"
+      },
+      "Id": "a0H1I000002fEJ1UAM",
+      "Name": "English (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJlUAM"
+    },
+    "Name": "BA in English: Creative Writing",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ1UAM",
+    "Id": "a0H1I000002fEJlUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ1UAM"
+      },
+      "Id": "a0H1I000002fEJ1UAM",
+      "Name": "English (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJmUAM"
+    },
+    "Name": "BA in Linguistics",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ2UAM",
+    "Id": "a0H1I000002fEJmUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ2UAM"
+      },
+      "Id": "a0H1I000002fEJ2UAM",
+      "Name": "Linguistics (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJnUAM"
+    },
+    "Name": "BA in Philosophy",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ3UAM",
+    "Id": "a0H1I000002fEJnUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ3UAM"
+      },
+      "Id": "a0H1I000002fEJ3UAM",
+      "Name": "Philosophy (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJoUAM"
+    },
+    "Name": "BA in Communication",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "BA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ4UAM",
+    "Id": "a0H1I000002fEJoUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ4UAM"
+      },
+      "Id": "a0H1I000002fEJ4UAM",
+      "Name": "Communication (Undergraduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJpUAM"
+    },
+    "Name": "MA in English",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ5UAM",
+    "Id": "a0H1I000002fEJpUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ5UAM"
+      },
+      "Id": "a0H1I000002fEJ5UAM",
+      "Name": "English (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJqUAM"
+    },
+    "Name": "Master of Fine Arts in Creative Writing",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "MFA",
+    "Recruitment_Interest__c": "a0H1I000002fEJ6UAM",
+    "Id": "a0H1I000002fEJqUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ6UAM"
+      },
+      "Id": "a0H1I000002fEJ6UAM",
+      "Name": "Creative Writing (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIVUA2"
+    },
+    "Name": "Mathematics (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIVUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIXUA2"
+    },
+    "Name": "Mathematics (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIXUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIYUA2"
+    },
+    "Name": "Biology (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIYUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIZUA2"
+    },
+    "Name": "Biology (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIZUA2",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIaUAM"
+    },
+    "Name": "Chemistry (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIaUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIbUAM"
+    },
+    "Name": "Computer Science (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIbUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIcUAM"
+    },
+    "Name": "Computer Science (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIcUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIdUAM"
+    },
+    "Name": "Earth and Environmental Science (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIdUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIeUAM"
+    },
+    "Name": "Physics (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIeUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIfUAM"
+    },
+    "Name": "Psychology (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIfUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIgUAM"
+    },
+    "Name": "MFT (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIgUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIhUAM"
+    },
+    "Name": "Psychology (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIadQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIhUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIiUAM"
+    },
+    "Name": "Anthropology (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIiUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIjUAM"
+    },
+    "Name": "Criminology (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIjUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIkUAM"
+    },
+    "Name": "Political Science (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIkUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIlUAM"
+    },
+    "Name": "History (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaiQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIlUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEImUAM"
+    },
+    "Name": "Kinesiology (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEImUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEInUAM"
+    },
+    "Name": "Kinesiology (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEInUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIoUAM"
+    },
+    "Name": "Nursing (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIoUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIpUAM"
+    },
+    "Name": "Nursing (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIajQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIpUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIqUAM"
+    },
+    "Name": "Liberal Studies (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIqUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIrUAM"
+    },
+    "Name": "Education (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIrUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIsUAM"
+    },
+    "Name": "School Psychology (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIsUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEItUAM"
+    },
+    "Name": "School Counseling (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEItUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIuUAM"
+    },
+    "Name": "Teaching Credential (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIuUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIvUAM"
+    },
+    "Name": "Economics (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIvUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIwUAM"
+    },
+    "Name": "Accounting (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIwUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIxUAM"
+    },
+    "Name": "Business Management (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIxUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIyUAM"
+    },
+    "Name": "Marketing (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIyUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIzUAM"
+    },
+    "Name": "MBA (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEIzUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ1UAM"
+    },
+    "Name": "English (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ1UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ2UAM"
+    },
+    "Name": "Linguistics (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ2UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ3UAM"
+    },
+    "Name": "Philosophy (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ3UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ4UAM"
+    },
+    "Name": "Communication (Undergraduate)",
+    "Career__c": "Undergraduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ4UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ5UAM"
+    },
+    "Name": "English (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ5UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJ6UAM"
+    },
+    "Name": "Creative Writing (Graduate)",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIalQAF",
+    "Active__c": true,
+    "Type__c": "Recruitment",
+    "RecordTypeId": "0121I000000VxEsQAK",
+    "Id": "a0H1I000002fEJ6UAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxEsQAK"
+      },
+      "Id": "0121I000000VxEsQAK",
+      "Name": "Recruitment Plan"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJrUAM"
+    },
+    "Name": "Teaching Credential: Single Subject",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "Credential",
+    "Recruitment_Interest__c": "a0H1I000002fEIuUAM",
+    "Id": "a0H1I000002fEJrUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIuUAM"
+      },
+      "Id": "a0H1I000002fEIuUAM",
+      "Name": "Teaching Credential (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJsUAM"
+    },
+    "Name": "Teaching Credential: Multiple Subject",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIaeQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "Credential",
+    "Recruitment_Interest__c": "a0H1I000002fEIuUAM",
+    "Id": "a0H1I000002fEJsUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIuUAM"
+      },
+      "Id": "a0H1I000002fEIuUAM",
+      "Name": "Teaching Credential (Graduate)"
+    }
+  }, {
+    "attributes": {
+      "type": "Plan__c",
+      "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEJtUAM"
+    },
+    "Name": "Executive Master of Business Administration",
+    "Career__c": "Graduate",
+    "Department__c": "0011I00000FrIakQAF",
+    "Active__c": true,
+    "Type__c": "Academic",
+    "RecordTypeId": "0121I000000VxF2QAK",
+    "Degree__c": "EMBA",
+    "Recruitment_Interest__c": "a0H1I000002fEIzUAM",
+    "Id": "a0H1I000002fEJtUAM",
+    "RecordType": {
+      "attributes": {
+        "type": "RecordType",
+        "url": "/services/data/v42.0/sobjects/RecordType/0121I000000VxF2QAK"
+      },
+      "Id": "0121I000000VxF2QAK",
+      "Name": "Academic Plan"
+    },
+    "Recruitment_Interest__r": {
+      "attributes": {
+        "type": "Plan__c",
+        "url": "/services/data/v42.0/sobjects/Plan__c/a0H1I000002fEIzUAM"
+      },
+      "Id": "a0H1I000002fEIzUAM",
+      "Name": "MBA (Graduate)"
+    }
+  }],
+  "plans": [{
+      "plan": {
+        "Name": "MBA",
+        "Plan_Type__c": "Major",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "Senior Executive Program",
+        "Plan_Type__c": "Certificate",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "BS in Mathematics",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Mathematics (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BA in Mathematics",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Mathematics (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MA in Mathematics",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Mathematics (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BS in Biology",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Biology (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MS in Biology",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Biology (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MS in Biotechnology",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Biology (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BS in Chemistry",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Chemistry (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BA in Computer Science",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Computer Science (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MS in Computer Science",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Computer Science (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BA in Earth and Environmental Science",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Earth and Environmental Science (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BS in Physics",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Physics (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BA in Psychology",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Psychology (Undergraduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Master in Marriage and Family Therapy",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MFT"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "MFT (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MA in Psychology: General",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Psychology (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MA in Psychology: Applied Behavior Analysis",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Psychology (Graduate)",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "BS in Anthropology",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Anthropology (Undergraduate)",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "BS in Criminology",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Criminology (Undergraduate)",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "BA in Political Science",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Political Science (Undergraduate)",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "BA in History",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "History (Undergraduate)",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "BA in Kinesiology",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Kinesiology (Undergraduate)",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "MA in Kinesiology: Exercise Science",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Kinesiology (Graduate)",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "MA in Kinesiology: Sports Administration",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Kinesiology (Graduate)",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "BS in Nursing",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Nursing (Undergraduate)",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "MS in Nursing",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Nursing (Graduate)",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "BA in Liberal Studies",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Liberal Studies (Undergraduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "MA in Education: Reading and Language Arts",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Education (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "MA in Education: Multilingual Education",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Education (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "MS in School Psychology",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "School Psychology (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "MS in School Counseling",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "School Counseling (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "BA in Economics",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Economics (Undergraduate)",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "BS in Accounting",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BS"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Accounting (Undergraduate)",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "BA in Business Management",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Business Management (Undergraduate)",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "BA in Marketing",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Marketing (Undergraduate)",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "Master of Business Administration",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MBA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "MBA (Graduate)",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "BA in English: Literature",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "English (Undergraduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "BA in English: Creative Writing",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "English (Undergraduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "BA in Linguistics",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Linguistics (Undergraduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "BA in Philosophy",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Philosophy (Undergraduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "BA in Communication",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "BA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Communication (Undergraduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "MA in English",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "English (Graduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Master of Fine Arts in Creative Writing",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "MFA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Creative Writing (Graduate)",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Mathematics (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Mathematics (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Biology (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Biology (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Chemistry (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Computer Science (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Computer Science (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Earth and Environmental Science (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Physics (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Psychology (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "MFT (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Psychology (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Science and Mathematics"
+    },
+    {
+      "plan": {
+        "Name": "Anthropology (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "Criminology (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "Political Science (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "History (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Social Sciences"
+    },
+    {
+      "plan": {
+        "Name": "Kinesiology (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "Kinesiology (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "Nursing (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "Nursing (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Health and Human Services"
+    },
+    {
+      "plan": {
+        "Name": "Liberal Studies (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "Education (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "School Psychology (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "School Counseling (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "Teaching Credential (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "Economics (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "Accounting (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "Business Management (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "Marketing (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "MBA (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Business"
+    },
+    {
+      "plan": {
+        "Name": "English (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Linguistics (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Philosophy (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Communication (Undergraduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Undergraduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "English (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Creative Writing (Graduate)",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Recruitment",
+        "Degree__c": ""
+      },
+      "recordTypeName": "Recruitment Plan",
+      "recruitmentInterestName": "",
+      "departmentName": "School of Arts & Humanities"
+    },
+    {
+      "plan": {
+        "Name": "Teaching Credential: Single Subject",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "Credential"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Teaching Credential (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "Teaching Credential: Multiple Subject",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "Credential"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "Teaching Credential (Graduate)",
+      "departmentName": "School of Education"
+    },
+    {
+      "plan": {
+        "Name": "Executive Master of Business Administration",
+        "Plan_Type__c": "",
+        "Career__c": "Graduate",
+        "Active__c": "TRUE",
+        "Type__c": "Academic",
+        "Degree__c": "EMBA"
+      },
+      "recordTypeName": "Academic Plan",
+      "recruitmentInterestName": "MBA (Graduate)",
+      "departmentName": "School of Business"
+    }
   ]
 }
