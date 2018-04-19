@@ -33485,7 +33485,7 @@
         "Name": "MBA",
         "Plan_Type__c": "Major",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -33498,7 +33498,7 @@
         "Name": "Senior Executive Program",
         "Plan_Type__c": "Certificate",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -33511,7 +33511,7 @@
         "Name": "BS in Mathematics",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33524,7 +33524,7 @@
         "Name": "BA in Mathematics",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33537,7 +33537,7 @@
         "Name": "MA in Mathematics",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33550,7 +33550,7 @@
         "Name": "BS in Biology",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33563,7 +33563,7 @@
         "Name": "MS in Biology",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33576,7 +33576,7 @@
         "Name": "MS in Biotechnology",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33589,7 +33589,7 @@
         "Name": "BS in Chemistry",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33602,7 +33602,7 @@
         "Name": "BA in Computer Science",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33615,7 +33615,7 @@
         "Name": "MS in Computer Science",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33628,7 +33628,7 @@
         "Name": "BA in Earth and Environmental Science",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33641,7 +33641,7 @@
         "Name": "BS in Physics",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33654,7 +33654,7 @@
         "Name": "BA in Psychology",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33667,7 +33667,7 @@
         "Name": "Master in Marriage and Family Therapy",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MFT"
       },
@@ -33680,7 +33680,7 @@
         "Name": "MA in Psychology: General",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33693,7 +33693,7 @@
         "Name": "MA in Psychology: Applied Behavior Analysis",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33706,7 +33706,7 @@
         "Name": "BS in Anthropology",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33719,7 +33719,7 @@
         "Name": "BS in Criminology",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33732,7 +33732,7 @@
         "Name": "BA in Political Science",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33745,7 +33745,7 @@
         "Name": "BA in History",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33758,7 +33758,7 @@
         "Name": "BA in Kinesiology",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33771,7 +33771,7 @@
         "Name": "MA in Kinesiology: Exercise Science",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33784,7 +33784,7 @@
         "Name": "MA in Kinesiology: Sports Administration",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33797,7 +33797,7 @@
         "Name": "BS in Nursing",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33810,7 +33810,7 @@
         "Name": "MS in Nursing",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33823,7 +33823,7 @@
         "Name": "BA in Liberal Studies",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33836,7 +33836,7 @@
         "Name": "MA in Education: Reading and Language Arts",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33849,7 +33849,7 @@
         "Name": "MA in Education: Multilingual Education",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -33862,7 +33862,7 @@
         "Name": "MS in School Psychology",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33875,7 +33875,7 @@
         "Name": "MS in School Counseling",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MS"
       },
@@ -33888,7 +33888,7 @@
         "Name": "BA in Economics",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33901,7 +33901,7 @@
         "Name": "BS in Accounting",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BS"
       },
@@ -33914,7 +33914,7 @@
         "Name": "BA in Business Management",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33927,7 +33927,7 @@
         "Name": "BA in Marketing",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33940,7 +33940,7 @@
         "Name": "Master of Business Administration",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MBA"
       },
@@ -33953,7 +33953,7 @@
         "Name": "BA in English: Literature",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33966,7 +33966,7 @@
         "Name": "BA in English: Creative Writing",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33979,7 +33979,7 @@
         "Name": "BA in Linguistics",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -33992,7 +33992,7 @@
         "Name": "BA in Philosophy",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -34005,7 +34005,7 @@
         "Name": "BA in Communication",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "BA"
       },
@@ -34018,7 +34018,7 @@
         "Name": "MA in English",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MA"
       },
@@ -34031,7 +34031,7 @@
         "Name": "Master of Fine Arts in Creative Writing",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "MFA"
       },
@@ -34044,7 +34044,7 @@
         "Name": "Mathematics (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34057,7 +34057,7 @@
         "Name": "Mathematics (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34070,7 +34070,7 @@
         "Name": "Biology (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34083,7 +34083,7 @@
         "Name": "Biology (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34096,7 +34096,7 @@
         "Name": "Chemistry (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34109,7 +34109,7 @@
         "Name": "Computer Science (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34122,7 +34122,7 @@
         "Name": "Computer Science (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34135,7 +34135,7 @@
         "Name": "Earth and Environmental Science (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34148,7 +34148,7 @@
         "Name": "Physics (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34161,7 +34161,7 @@
         "Name": "Psychology (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34174,7 +34174,7 @@
         "Name": "MFT (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34187,7 +34187,7 @@
         "Name": "Psychology (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34200,7 +34200,7 @@
         "Name": "Anthropology (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34213,7 +34213,7 @@
         "Name": "Criminology (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34226,7 +34226,7 @@
         "Name": "Political Science (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34239,7 +34239,7 @@
         "Name": "History (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34252,7 +34252,7 @@
         "Name": "Kinesiology (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34265,7 +34265,7 @@
         "Name": "Kinesiology (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34278,7 +34278,7 @@
         "Name": "Nursing (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34291,7 +34291,7 @@
         "Name": "Nursing (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34304,7 +34304,7 @@
         "Name": "Liberal Studies (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34317,7 +34317,7 @@
         "Name": "Education (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34330,7 +34330,7 @@
         "Name": "School Psychology (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34343,7 +34343,7 @@
         "Name": "School Counseling (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34356,7 +34356,7 @@
         "Name": "Teaching Credential (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34369,7 +34369,7 @@
         "Name": "Economics (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34382,7 +34382,7 @@
         "Name": "Accounting (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34395,7 +34395,7 @@
         "Name": "Business Management (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34408,7 +34408,7 @@
         "Name": "Marketing (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34421,7 +34421,7 @@
         "Name": "MBA (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34434,7 +34434,7 @@
         "Name": "English (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34447,7 +34447,7 @@
         "Name": "Linguistics (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34460,7 +34460,7 @@
         "Name": "Philosophy (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34473,7 +34473,7 @@
         "Name": "Communication (Undergraduate)",
         "Plan_Type__c": "",
         "Career__c": "Undergraduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34486,7 +34486,7 @@
         "Name": "English (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34499,7 +34499,7 @@
         "Name": "Creative Writing (Graduate)",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Recruitment",
         "Degree__c": ""
       },
@@ -34512,7 +34512,7 @@
         "Name": "Teaching Credential: Single Subject",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "Credential"
       },
@@ -34525,7 +34525,7 @@
         "Name": "Teaching Credential: Multiple Subject",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "Credential"
       },
@@ -34538,7 +34538,7 @@
         "Name": "Executive Master of Business Administration",
         "Plan_Type__c": "",
         "Career__c": "Graduate",
-        "Active__c": "TRUE",
+        "Active__c": true,
         "Type__c": "Academic",
         "Degree__c": "EMBA"
       },
