@@ -30936,5 +30936,465 @@
       "recordTypeName": "Business Organization",
       "parentName": ""
     }
+  ],
+  "triggerHandlers": [{
+    "hed__Active__c": true,
+    "hed__Asynchronous__c": false,
+    "hed__Class__c": "TDTM_TerritoryAssignment",
+    "hed__Load_Order__c": 1.00,
+    "hed__Object__c": "Opportunity",
+    "hed__Trigger_Action__c": "BeforeInsert;BeforeUpdate",
+    "Name": "TDTM_TerritoryAssignment",
+    "hed__User_Managed__c": true
+  }],
+  "interactionMappings": [{
+      "Target_Object_API_Name__c": "CampaignMember",
+      "Target_Field_API_Name__c": "T_Shirt_Size__c",
+      "Interaction_Source_Field_API_Name__c": "T_Shirt_Size__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "CampaignId",
+      "Interaction_Source_Field_API_Name__c": "Campaign__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MiddleName",
+      "Interaction_Source_Field_API_Name__c": "Middle_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "LeadSource",
+      "Interaction_Source_Field_API_Name__c": "Lead_Source__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "City",
+      "Interaction_Source_Field_API_Name__c": "Mailing_City__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Country",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Country__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "PostalCode",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Postal_Code__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "State",
+      "Interaction_Source_Field_API_Name__c": "Mailing_State__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Street",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Street__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Salutation",
+      "Interaction_Source_Field_API_Name__c": "Salutation__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Constituent_ID__c",
+      "Interaction_Source_Field_API_Name__c": "Constituent_ID__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Affiliation_Role__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliation_Role__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Birthdate__c",
+      "Interaction_Source_Field_API_Name__c": "Birthdate__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Ethnicity__c",
+      "Interaction_Source_Field_API_Name__c": "Ethnicity__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Race__c",
+      "Interaction_Source_Field_API_Name__c": "Race__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Recruitment_Interest__c",
+      "Interaction_Source_Field_API_Name__c": "Recruitment_Interest__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Affiliated_Account__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliated_Account__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "MobilePhone",
+      "Interaction_Source_Field_API_Name__c": "Mobile_Phone__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Gender__c",
+      "Interaction_Source_Field_API_Name__c": "Gender__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Admit_Type__c",
+      "Interaction_Source_Field_API_Name__c": "Admit_Type__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Term__c",
+      "Interaction_Source_Field_API_Name__c": "Term__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Primary_Affiliation__c",
+      "Interaction_Source_Field_API_Name__c": "Primary_Affiliation__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "CloseDate",
+      "Interaction_Source_Field_API_Name__c": "Opportunity_Close_Date__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Affiliated_Account__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliated_Account__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Academic_Interest__c",
+      "Interaction_Source_Field_API_Name__c": "Academic_Interest__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "LeadSource",
+      "Interaction_Source_Field_API_Name__c": "Lead_Source__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Contact__c",
+      "Interaction_Source_Field_API_Name__c": "Contact__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Term__c",
+      "Interaction_Source_Field_API_Name__c": "Term__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "StageName",
+      "Interaction_Source_Field_API_Name__c": "Opportunity_Stage__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Admit_Type__c",
+      "Interaction_Source_Field_API_Name__c": "Admit_Type__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Name",
+      "Interaction_Source_Field_API_Name__c": "Opportunity_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Recruitment_Interest__c",
+      "Interaction_Source_Field_API_Name__c": "Recruitment_Interest__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Opportunity",
+      "Target_Field_API_Name__c": "Application_Number__c",
+      "Interaction_Source_Field_API_Name__c": "Application_Number__c",
+      "Active__c": true,
+      "Insert_Null__c": false,
+      "Skip_Mapping__c": "Manual Entry"
+    },
+    {
+      "Target_Object_API_Name__c": "CampaignMember",
+      "Target_Field_API_Name__c": "Status",
+      "Interaction_Source_Field_API_Name__c": "Campaign_Member_Status__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "hed__Race__c",
+      "Interaction_Source_Field_API_Name__c": "Race__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "Birthdate",
+      "Interaction_Source_Field_API_Name__c": "Birthdate__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "Title",
+      "Interaction_Source_Field_API_Name__c": "Contact_Title__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "Email",
+      "Interaction_Source_Field_API_Name__c": "Email__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "FirstName",
+      "Interaction_Source_Field_API_Name__c": "First_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "hed__Gender__c",
+      "Interaction_Source_Field_API_Name__c": "Gender__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "HomePhone",
+      "Interaction_Source_Field_API_Name__c": "Home_Phone__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "LastName",
+      "Interaction_Source_Field_API_Name__c": "Last_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "LeadSource",
+      "Interaction_Source_Field_API_Name__c": "Lead_Source__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MailingCity",
+      "Interaction_Source_Field_API_Name__c": "Mailing_City__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MailingCountry",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Country__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MailingPostalCode",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Postal_Code__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MailingState",
+      "Interaction_Source_Field_API_Name__c": "Mailing_State__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MailingStreet",
+      "Interaction_Source_Field_API_Name__c": "Mailing_Street__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "MobilePhone",
+      "Interaction_Source_Field_API_Name__c": "Mobile_Phone__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "Salutation",
+      "Interaction_Source_Field_API_Name__c": "Salutation__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "hed__UniversityEmail__c",
+      "Interaction_Source_Field_API_Name__c": "University_Email__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "Constituent_ID__c",
+      "Interaction_Source_Field_API_Name__c": "Constituent_ID__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Contact",
+      "Target_Field_API_Name__c": "hed__Ethnicity__c",
+      "Interaction_Source_Field_API_Name__c": "Ethnicity__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "hed__Status__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliation_Status__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "hed__Account__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliated_Account__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "hed__Primary__c",
+      "Interaction_Source_Field_API_Name__c": "Primary_Affiliation__c",
+      "Active__c": true,
+      "Insert_Null__c": true
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "hed__Contact__c",
+      "Interaction_Source_Field_API_Name__c": "Contact__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "Upsert_Key__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliation_Key__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "hed__Affiliation__c",
+      "Target_Field_API_Name__c": "hed__Role__c",
+      "Interaction_Source_Field_API_Name__c": "Affiliation_Role__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Title",
+      "Interaction_Source_Field_API_Name__c": "Contact_Title__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Email",
+      "Interaction_Source_Field_API_Name__c": "Email__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "FirstName",
+      "Interaction_Source_Field_API_Name__c": "First_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "Phone",
+      "Interaction_Source_Field_API_Name__c": "Home_Phone__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    },
+    {
+      "Target_Object_API_Name__c": "Lead",
+      "Target_Field_API_Name__c": "LastName",
+      "Interaction_Source_Field_API_Name__c": "Last_Name__c",
+      "Active__c": true,
+      "Insert_Null__c": false
+    }
   ]
 }
