@@ -33490,7 +33490,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -33503,7 +33503,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -33516,7 +33516,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Mathematics (Undergraduate)",
+      "recruitmentPlanName": "Mathematics (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33529,7 +33529,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Mathematics (Undergraduate)",
+      "recruitmentPlanName": "Mathematics (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33542,7 +33542,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Mathematics (Graduate)",
+      "recruitmentPlanName": "Mathematics (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33555,7 +33555,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Biology (Undergraduate)",
+      "recruitmentPlanName": "Biology (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33568,7 +33568,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Biology (Graduate)",
+      "recruitmentPlanName": "Biology (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33581,7 +33581,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Biology (Graduate)",
+      "recruitmentPlanName": "Biology (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33594,7 +33594,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Chemistry (Undergraduate)",
+      "recruitmentPlanName": "Chemistry (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33607,7 +33607,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Computer Science (Undergraduate)",
+      "recruitmentPlanName": "Computer Science (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33620,7 +33620,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Computer Science (Graduate)",
+      "recruitmentPlanName": "Computer Science (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33633,7 +33633,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Earth and Environmental Science (Undergraduate)",
+      "recruitmentPlanName": "Earth and Environmental Science (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33646,7 +33646,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Physics (Undergraduate)",
+      "recruitmentPlanName": "Physics (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33659,7 +33659,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Psychology (Undergraduate)",
+      "recruitmentPlanName": "Psychology (Undergraduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33672,7 +33672,7 @@
         "Degree__c": "MFT"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "MFT (Graduate)",
+      "recruitmentPlanName": "MFT (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33685,7 +33685,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Psychology (Graduate)",
+      "recruitmentPlanName": "Psychology (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33698,7 +33698,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Psychology (Graduate)",
+      "recruitmentPlanName": "Psychology (Graduate)",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -33711,7 +33711,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Anthropology (Undergraduate)",
+      "recruitmentPlanName": "Anthropology (Undergraduate)",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -33724,7 +33724,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Criminology (Undergraduate)",
+      "recruitmentPlanName": "Criminology (Undergraduate)",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -33737,7 +33737,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Political Science (Undergraduate)",
+      "recruitmentPlanName": "Political Science (Undergraduate)",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -33750,7 +33750,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "History (Undergraduate)",
+      "recruitmentPlanName": "History (Undergraduate)",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -33763,7 +33763,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Kinesiology (Undergraduate)",
+      "recruitmentPlanName": "Kinesiology (Undergraduate)",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -33776,7 +33776,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Kinesiology (Graduate)",
+      "recruitmentPlanName": "Kinesiology (Graduate)",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -33789,7 +33789,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Kinesiology (Graduate)",
+      "recruitmentPlanName": "Kinesiology (Graduate)",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -33802,7 +33802,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Nursing (Undergraduate)",
+      "recruitmentPlanName": "Nursing (Undergraduate)",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -33815,7 +33815,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Nursing (Graduate)",
+      "recruitmentPlanName": "Nursing (Graduate)",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -33828,7 +33828,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Liberal Studies (Undergraduate)",
+      "recruitmentPlanName": "Liberal Studies (Undergraduate)",
       "departmentName": "School of Education"
     },
     {
@@ -33841,7 +33841,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Education (Graduate)",
+      "recruitmentPlanName": "Education (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -33854,7 +33854,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Education (Graduate)",
+      "recruitmentPlanName": "Education (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -33867,7 +33867,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "School Psychology (Graduate)",
+      "recruitmentPlanName": "School Psychology (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -33880,7 +33880,7 @@
         "Degree__c": "MS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "School Counseling (Graduate)",
+      "recruitmentPlanName": "School Counseling (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -33893,7 +33893,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Economics (Undergraduate)",
+      "recruitmentPlanName": "Economics (Undergraduate)",
       "departmentName": "School of Business"
     },
     {
@@ -33906,7 +33906,7 @@
         "Degree__c": "BS"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Accounting (Undergraduate)",
+      "recruitmentPlanName": "Accounting (Undergraduate)",
       "departmentName": "School of Business"
     },
     {
@@ -33919,7 +33919,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Business Management (Undergraduate)",
+      "recruitmentPlanName": "Business Management (Undergraduate)",
       "departmentName": "School of Business"
     },
     {
@@ -33932,7 +33932,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Marketing (Undergraduate)",
+      "recruitmentPlanName": "Marketing (Undergraduate)",
       "departmentName": "School of Business"
     },
     {
@@ -33945,7 +33945,7 @@
         "Degree__c": "MBA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "MBA (Graduate)",
+      "recruitmentPlanName": "MBA (Graduate)",
       "departmentName": "School of Business"
     },
     {
@@ -33958,7 +33958,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "English (Undergraduate)",
+      "recruitmentPlanName": "English (Undergraduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -33971,7 +33971,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "English (Undergraduate)",
+      "recruitmentPlanName": "English (Undergraduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -33984,7 +33984,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Linguistics (Undergraduate)",
+      "recruitmentPlanName": "Linguistics (Undergraduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -33997,7 +33997,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Philosophy (Undergraduate)",
+      "recruitmentPlanName": "Philosophy (Undergraduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34010,7 +34010,7 @@
         "Degree__c": "BA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Communication (Undergraduate)",
+      "recruitmentPlanName": "Communication (Undergraduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34023,7 +34023,7 @@
         "Degree__c": "MA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "English (Graduate)",
+      "recruitmentPlanName": "English (Graduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34036,7 +34036,7 @@
         "Degree__c": "MFA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Creative Writing (Graduate)",
+      "recruitmentPlanName": "Creative Writing (Graduate)",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34049,7 +34049,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34062,7 +34062,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34075,7 +34075,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34088,7 +34088,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34101,7 +34101,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34114,7 +34114,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34127,7 +34127,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34140,7 +34140,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34153,7 +34153,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34166,7 +34166,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34179,7 +34179,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34192,7 +34192,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Science and Mathematics"
     },
     {
@@ -34205,7 +34205,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -34218,7 +34218,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -34231,7 +34231,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -34244,7 +34244,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Social Sciences"
     },
     {
@@ -34257,7 +34257,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -34270,7 +34270,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -34283,7 +34283,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -34296,7 +34296,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Health and Human Services"
     },
     {
@@ -34309,7 +34309,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Education"
     },
     {
@@ -34322,7 +34322,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Education"
     },
     {
@@ -34335,7 +34335,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Education"
     },
     {
@@ -34348,7 +34348,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Education"
     },
     {
@@ -34361,7 +34361,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Education"
     },
     {
@@ -34374,7 +34374,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -34387,7 +34387,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -34400,7 +34400,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -34413,7 +34413,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -34426,7 +34426,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Business"
     },
     {
@@ -34439,7 +34439,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34452,7 +34452,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34465,7 +34465,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34478,7 +34478,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34491,7 +34491,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34504,7 +34504,7 @@
         "Degree__c": ""
       },
       "recordTypeName": "Recruitment Plan",
-      "recruitmentInterestName": "",
+      "recruitmentPlanName": "",
       "departmentName": "School of Arts & Humanities"
     },
     {
@@ -34517,7 +34517,7 @@
         "Degree__c": "Credential"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Teaching Credential (Graduate)",
+      "recruitmentPlanName": "Teaching Credential (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -34530,7 +34530,7 @@
         "Degree__c": "Credential"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "Teaching Credential (Graduate)",
+      "recruitmentPlanName": "Teaching Credential (Graduate)",
       "departmentName": "School of Education"
     },
     {
@@ -34543,7 +34543,7 @@
         "Degree__c": "EMBA"
       },
       "recordTypeName": "Academic Plan",
-      "recruitmentInterestName": "MBA (Graduate)",
+      "recruitmentPlanName": "MBA (Graduate)",
       "departmentName": "School of Business"
     }
   ]
