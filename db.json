@@ -3701,26 +3701,6 @@
     },
     {
       "interaction": {
-        "Last_Name__c": "Carey",
-        "First_Name__c": "Adalyn",
-        "Ethnicity__c": "Not Hispanic or Latino",
-        "Race__c": "Black or African American",
-        "Gender__c": "Male",
-        "Birthdate__c": "2003-08-01",
-        "Mailing_State__c": "MT",
-        "Mailing_Postal_Code__c": 59623,
-        "Mailing_City__c": "Helena",
-        "Mailing_Street__c": "86 18th Avenue",
-        "Mailing_Country__c": "United States",
-        "University_Email__c": "sde leon@email.com",
-        "Email__c": "simon.de leon@email.com",
-        "Mobile_Phone__c": "(406) 710-5569"
-      },
-      "recruitmentPlanName": "Computer Science (Undergraduate)",
-      "termName": "Fall 2021"
-    },
-    {
-      "interaction": {
         "Last_Name__c": "Carlson",
         "First_Name__c": "Zane",
         "Ethnicity__c": "Not Hispanic or Latino",
@@ -4732,8 +4712,8 @@
         "Mailing_City__c": "Jackson",
         "Mailing_Street__c": "6633 29th Street East",
         "Mailing_Country__c": "United States",
-        "University_Email__c": "bde la cruz@email.com",
-        "Email__c": "bryson.de la cruz@email.com",
+        "University_Email__c": "bdelacruz@email.com",
+        "Email__c": "bryson.delacruz@email.com",
         "Mobile_Phone__c": "(228) 251-2614"
       },
       "recruitmentPlanName": "Criminology (Undergraduate)",
@@ -6472,8 +6452,8 @@
         "Mailing_City__c": "Jefferson City",
         "Mailing_Street__c": "349 Mulberry Street",
         "Mailing_Country__c": "United States",
-        "University_Email__c": "rde la cruz@email.com",
-        "Email__c": "rodrigo.de la cruz@email.com",
+        "University_Email__c": "rdelacruz@email.com",
+        "Email__c": "rodrigo.delacruz@email.com",
         "Mobile_Phone__c": "(314) 457-2430"
       },
       "recruitmentPlanName": "Communication (Undergraduate)",
@@ -8652,8 +8632,8 @@
         "Mailing_City__c": "St. Paul",
         "Mailing_Street__c": "6633 Bay Street",
         "Mailing_Country__c": "United States",
-        "University_Email__c": "sde jesus@email.com",
-        "Email__c": "skyler.de jesus@email.com",
+        "University_Email__c": "sdejesus@email.com",
+        "Email__c": "skyler.dejesus@email.com",
         "Mobile_Phone__c": "(218) 720-9555"
       },
       "recruitmentPlanName": "Earth and Environmental Science (Undergraduate)",
@@ -14792,8 +14772,8 @@
         "Mailing_City__c": "Lansing",
         "Mailing_Street__c": "35 Academy Street",
         "Mailing_Country__c": "United States",
-        "University_Email__c": "jde jesus@email.com",
-        "Email__c": "jeronimo.de jesus@email.com",
+        "University_Email__c": "jdejesus@email.com",
+        "Email__c": "jeronimo.dejesus@email.com",
         "Mobile_Phone__c": "(231) 157-8160"
       },
       "recruitmentPlanName": "Communication (Undergraduate)",
@@ -21292,8 +21272,8 @@
         "Mailing_City__c": "Lincoln",
         "Mailing_Street__c": "54 Penn Street",
         "Mailing_Country__c": "United States",
-        "University_Email__c": "ade leon@email.com",
-        "Email__c": "adeline.de leon@email.com",
+        "University_Email__c": "adeleon@email.com",
+        "Email__c": "adeline.deleon@email.com",
         "Mobile_Phone__c": "(308) 148-6375"
       },
       "recruitmentPlanName": "School Psychology (Graduate)",
